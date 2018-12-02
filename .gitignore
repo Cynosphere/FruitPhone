@@ -10,6 +10,8 @@ private.properties
 minecraft
 .idea
 *.iml
+*.ipr
+*.iws
 
 #Extra stuff for Falk's dumb compy
 .directory
